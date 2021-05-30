@@ -1,0 +1,36 @@
+.liBgColor {
+  background-color: #f4f1ea;
+  border-radius: 12px;
+  width: 400px;
+
+  padding: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.liBgColorSelected {
+  background-color: #0e8684;
+  border-radius: 12px;
+  width: 400px;
+
+  padding: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.ulStyle {
+  list-style: none;
+  display: flex;
+  padding: 0px;
+}
+
+.cupImage {
+  width: 10%;
+  height: 10%;
+}
+
+.headImg {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
