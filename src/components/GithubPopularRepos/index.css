@@ -1,0 +1,33 @@
+/* Write your CSS here */
+
+.bg {
+  background-color: #f8f8ff;
+  height: 100vh;
+
+  padding: 50px;
+  text-align: center;
+}
+
+.head {
+  font-family: 'Lobster';
+  font-size: 60px;
+  color: #0f172a;
+  text-align: center;
+}
+
+.navBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bn {
+  margin: 60px;
+  border: 2px #0284c7 solid;
+  padding: 10px;
+  border-radius: 12px;
+  color: #0284c7;
+  font-family: 'Roboto';
+  cursor: pointer;
+  background: transparent;
+}
